@@ -11,7 +11,10 @@
 
 ## 🤳 Connect with Me
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32" title="LinkedIn"/>][linkedin]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="32" title="Instagram"/>][instagram]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)][linkedin]
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram)][instagram]
+
+[instagram]: https://www.instagram.com/nigelx117
+[linkedin]: https://www.linkedin.com/in/nigel-andrews-12b8b6340
 
 
