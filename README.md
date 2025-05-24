@@ -10,7 +10,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [NYC Taxi Fare Prediction (Kaggle Coding Challendge)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [NYC Taxi Fare Prediction (Kaggle Coding Challendge)]([https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm](https://github.com/nigel117/NYC-Taxi-Fares))
 
 
 <h2> 🤳 Connect with me:</h2>
