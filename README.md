@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nigel Andrews, <br/>Programmer, IT Administrator, Skateboarder</h1>
+<h1>Hi, I'm Nigel Andrews, <br/>Programmer, IT Administrator, and Technician</h1>
 
 <h2> Software Development Projects:</h2>
 
